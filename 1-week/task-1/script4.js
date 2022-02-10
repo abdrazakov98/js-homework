@@ -1,8 +1,8 @@
 const souvenirWeight = 75;
 const baubleWeight = 112;
 
-let souvenirAmount = prompt("Сколько сувенир купили?");
-    baubleAmount = prompt("Сколько безделушек купили?");
+let souvenirAmount= prompt("Сколько сувенир купили?");
+    baubleAmount= prompt("Сколько безделушек купили?");
 
 let sum = (souvenirWeight * souvenirAmount + baubleWeight * baubleAmount);
 
