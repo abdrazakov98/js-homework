@@ -17,4 +17,4 @@ btnSubmit.addEventListener('click', function() {
     myTodoList.addEventListener('click', () => {
         myTodoList.remove()
     })
-})
+})  
